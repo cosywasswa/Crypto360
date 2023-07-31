@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Crypto360/crypto-features/static/css/main.c8b44768.css",
-    "main.js": "/Crypto360/crypto-features/static/js/main.a23c5096.js",
-    "static/media/crypto.png": "/Crypto360/crypto-features/static/media/crypto.4de2c55c13e545b08cbc.png",
-    "index.html": "/Crypto360/crypto-features/index.html",
-    "main.c8b44768.css.map": "/Crypto360/crypto-features/static/css/main.c8b44768.css.map",
-    "main.a23c5096.js.map": "/Crypto360/crypto-features/static/js/main.a23c5096.js.map"
+    "main.css": "/Crypto360/static/css/main.c8b44768.css",
+    "main.js": "/Crypto360/static/js/main.da0147ea.js",
+    "static/media/crypto.png": "/Crypto360/static/media/crypto.4de2c55c13e545b08cbc.png",
+    "index.html": "/Crypto360/index.html",
+    "main.c8b44768.css.map": "/Crypto360/static/css/main.c8b44768.css.map",
+    "main.da0147ea.js.map": "/Crypto360/static/js/main.da0147ea.js.map"
   },
   "entrypoints": [
     "static/css/main.c8b44768.css",
-    "static/js/main.a23c5096.js"
+    "static/js/main.da0147ea.js"
   ]
 }
