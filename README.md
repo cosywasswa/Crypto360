@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./src/Logo/logo.PNG" alt="logo" width="140"  height="auto" />
+  <img src="./src/components/logos/crypto.PNG" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Crypto 360</b></h3>
@@ -16,7 +16,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-     - [Live Demo](#Demo)
+    - [Live Demo](#Demo)
     - [Presentation Video](#Presentation-video)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -73,6 +73,7 @@
 ## 🚀 Presentation <a name="Presentation"></a>
 
 <!-- Presentation Video -->
+
 - This is 'VidVib presentation'<a href="https://www.loom.com/share/fb4b013b374840bc97134aca3b0f5564?sid=bde04ddd-a51f-41ea-b05e-afd3566dea3e">Presentation Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
