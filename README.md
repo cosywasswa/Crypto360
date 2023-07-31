@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
-<div align="center" style="color: black;">
-  <img src="./src/components/logos/crypto.png" alt="Crypto360" width="140"  height="auto" />
+<div align="center">
+  <img src="./src/components/logos/logocrypto.png" alt="Crypto360" width="140"  height="auto" />
   <br/>
 
   <h3><b>Crypto 360</b></h3>
