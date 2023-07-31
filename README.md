@@ -66,14 +66,14 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- This is 'Crypto 360'<a href="">Live Demo Link</a>
+- This is 'Crypto 360'<a href="https://crypto-features--benevolent-mermaid-55c5b1.netlify.app/">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Presentation <a name="Presentation"></a>
 
 <!-- Presentation Video -->
-- This is 'VidVib presentation'<a href="">Presentation Video</a>
+- This is 'VidVib presentation'<a href="https://www.loom.com/share/fb4b013b374840bc97134aca3b0f5564?sid=bde04ddd-a51f-41ea-b05e-afd3566dea3e">Presentation Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
