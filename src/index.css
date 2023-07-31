@@ -6,13 +6,13 @@ html {
 }
 
 body {
-  background-color: rgba(252, 80, 151,0.9);
+  background-color: rgba(252, 80, 151, 0.9);
   font-family: 'Gill Sans', sans-serif;
 }
 
 header {
   width: 100%;
-  background-color: rgba(233, 46, 124,0.8);
+  background-color: rgba(233, 46, 124, 0.8);
 }
 
 .head-container {
@@ -28,9 +28,9 @@ header {
   gap: 10px;
 }
 
- .bars,
- .mic,
- .gear {
+.bars,
+.mic,
+.gear {
   font-size: 20px;
   color: white;
 }
@@ -49,7 +49,6 @@ hr {
   display: flex;
   align-items: center;
   gap: 10px;
-
 }
 
 .word-link {
@@ -71,19 +70,19 @@ hr {
 .container {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr); 
-  grid-gap: 2px; 
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2px;
 }
 
 .main-item {
   width: 100%;
-display: flex;
-justify-content: center;
-align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .stat-and-form {
-  background-color:rgb(233, 46, 124);
+  background-color: rgb(233, 46, 124);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -124,10 +123,9 @@ align-items: center;
   width: 100%;
   display: flex;
   flex-direction: column;
-  color: (252, 247, 247);
+  color: rgb(252, 247, 247);
   margin: auto;
   font-family: 'Lato', sans-serif;
-
 }
 
 .detail-header {
@@ -177,7 +175,7 @@ align-items: center;
 
 .supply {
   height: 60px;
-  background-color:  rgb(233, 46, 124);
+  background-color: rgb(233, 46, 124);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -221,7 +219,6 @@ align-items: center;
   font-family: 'Lato', sans-serif;
 }
 
-
 .crypto:nth-of-type(4n + 0),
 .crypto:nth-of-type(4n + 1) {
   background-color: rgb(233, 46, 124);
@@ -231,7 +228,7 @@ align-items: center;
   background-color: rgb(190, 29, 96);
   font-size: 20px;
   padding: 5px;
-  color: #fff
+  color: #fff;
 }
 
 @media only screen and (min-width: 768px) {
@@ -241,5 +238,3 @@ align-items: center;
     height: 100%;
   }
 }
-
-
