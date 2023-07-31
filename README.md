@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center">
+<div align="center" style="color: black;">
   <img src="./src/components/logos/crypto.png" alt="Crypto360" width="140"  height="auto" />
   <br/>
 
