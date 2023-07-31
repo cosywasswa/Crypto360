@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { fetchCrypto, setSearchQuery } from '../redux/Crypto/cryptoSlice';
 import CryptoItem from './cryptoItem';
-import logo from './logos/crypto.PNG';
+import logo from './logos/crypto.png';
 
 function CryptoHome() {
   const dispatch = useDispatch();
